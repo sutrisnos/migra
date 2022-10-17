@@ -45,7 +45,7 @@
       "link_privacy": "file:///android_asset/privacy_policy.html",
       "child_direct_gdpr": "true",
 
-      "category_optional":"1",
+      "category_optional":"0",
       "moreapp_optional":"1"
 	  
     }
