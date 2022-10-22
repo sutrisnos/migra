@@ -63986,158 +63986,158 @@
     {
       "id":6,
       "title":"Kim Jisoo",
-      "description":"Private Number",
+      "description":"+82 77652 988807",
       "image":"file:///android_asset/image/jisoo2.webp",
-      "videoid":"jisoo"
+      "videoid":"https://archive.org/download/lisablackpink/jisoo.mov"
     },
     {
       "id":5,
       "title":"Jennie Blackpink",
-      "description":"Private Number",
+      "description":"+82 65112 100807",
       "image":"file:///android_asset/image/jennie.webp",
-      "videoid":"jenniekim"
+      "videoid":"https://archive.org/download/lisablackpink/jenniekim.mov"
     },
     {
       "id":4,
       "title":"Jisoo Blackpink",
       "description":"Private Number",
       "image":"file:///android_asset/image/jisoo1.webp",
-      "videoid":"blackpink03"
+      "videoid":"https://archive.org/download/lisablackpink/blackpink03.mp4"
     },
     {
       "id":3,
       "title":"Rose Blackpink",
       "description":"Private Number",
       "image":"file:///android_asset/image/rose1.webp",
-      "videoid":"blackpink04"
+      "videoid":"https://archive.org/download/lisablackpink/blackpink04.mp4"
     },
     {
       "id":2,
       "title":"Lalisa Manoban",
       "description":"Private Number",
       "image":"file:///android_asset/image/lisa2.webp",
-      "videoid":"blackpink02"
+      "videoid":"https://archive.org/download/lisablackpink/blackpink02.mp4"
     },
     {
       "id":1,
       "title":"Lisa Blackpink",
       "description":"Private Number",
       "image":"file:///android_asset/image/lisa1.webp",
-      "videoid":"blackpink01"
+      "videoid":"https://archive.org/download/lisablackpink/blackpink01.mp4"
     }
   ],
 
   "Item": [
     {
       "id": 16,
-      "name": "Lisa Rose Blackpink",
-      "image_url": "file:///android_asset/image/lisarose1.webp",
-      "video_url": "lisaandrose1",
-      "voice_url": "lisa.mp3"
-    },
-    {
-      "id": 15,
-      "name": "Rose & Lisa Blackpink",
-      "image_url": "file:///android_asset/image/lisarose2.webp",
-      "video_url": "lisaandrose2",
-      "voice_url": "lisa.mp3"
-    },
-    {
-      "id": 14,
-      "name": "Lisa & Rose Blackpink",
-      "image_url": "file:///android_asset/image/lisarose3.webp",
-      "video_url": "lisaandrose3",
-      "voice_url": "lisa.mp3"
-    },
-    {
-      "id": 13,
-      "name": "Lisa & Rose",
-      "image_url": "file:///android_asset/image/lisarose4.webp",
-      "video_url": "lisaandrose4",
-      "voice_url": "lisa.mp3"
-    },
-    {
-      "id": 12,
-      "name": "Lalisa Manoban",
-      "image_url": "file:///android_asset/image/lisa7.webp",
-      "video_url": "lisa1",
-      "voice_url": "lisa.mp3"
-    },
-    {
-      "id": 11,
       "name": "Lisa Blackpink",
       "image_url": "file:///android_asset/image/lisa6.webp",
       "video_url": "lisa",
       "voice_url": "lisa.mp3"
     },
     {
+      "id": 15,
+      "name": "Lisa Rose Blackpink",
+      "image_url": "file:///android_asset/image/lisarose1.webp",
+      "video_url": "https://archive.org/download/lisablackpink/lisaandrose1.mov",
+      "voice_url": "lisa.mp3"
+    },
+    {
+      "id": 14,
+      "name": "Rose & Lisa Blackpink",
+      "image_url": "file:///android_asset/image/lisarose2.webp",
+      "video_url": "https://archive.org/download/lisablackpink/lisaandrose2.mov",
+      "voice_url": "lisa.mp3"
+    },
+    {
+      "id": 13,
+      "name": "Lisa & Rose Blackpink",
+      "image_url": "file:///android_asset/image/lisarose3.webp",
+      "video_url": "https://archive.org/download/lisablackpink/lisaandrose3.mov",
+      "voice_url": "lisa.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Lisa & Rose",
+      "image_url": "file:///android_asset/image/lisarose4.webp",
+      "video_url": "https://archive.org/download/lisablackpink/lisaandrose4.mov",
+      "voice_url": "lisa.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Lalisa Manoban",
+      "image_url": "file:///android_asset/image/lisa7.webp",
+      "video_url": "https://archive.org/download/lisablackpink/lisa1.mp4",
+      "voice_url": "lisa.mp3"
+    },
+    {
       "id": 10,
       "name": "Kim Jisoo",
       "image_url": "file:///android_asset/image/jisoo2.webp",
-      "video_url": "jisoo",
+      "video_url": "https://archive.org/download/lisablackpink/jisoo.mov",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 9,
       "name": "Jennie Blackpink",
       "image_url": "file:///android_asset/image/jennie.webp",
-      "video_url": "jenniekim",
+      "video_url": "https://archive.org/download/lisablackpink/jenniekim.mov",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 8,
       "name": "Rose Blackpink",
       "image_url": "file:///android_asset/image/rose2.webp",
-      "video_url": "blackpink08",
+      "video_url": "https://archive.org/download/lisablackpink/blackpink08.mp4",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 7,
       "name": "Lalisa Manoban",
       "image_url": "file:///android_asset/image/lisa5.webp",
-      "video_url": "blackpink07",
+      "video_url": "https://archive.org/download/lisablackpink/blackpink07.mp4",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 6,
       "name": "Lalisa Manoban",
       "image_url": "file:///android_asset/image/lisa4.webp",
-      "video_url": "blackpink06",
+      "video_url": "https://archive.org/download/lisablackpink/blackpink06.mp4",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 5,
       "name": "Lisa Blackpink",
       "image_url": "file:///android_asset/image/lisa3.webp",
-      "video_url": "blackpink05",
+      "video_url": "https://archive.org/download/lisablackpink/blackpink05.mp4",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 4,
       "name": "Rose Blackpink",
       "image_url": "file:///android_asset/image/rose1.webp",
-      "video_url": "blackpink04",
+      "video_url": "https://archive.org/download/lisablackpink/blackpink04.mp4",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 3,
       "name": "Jisoo Blackpink",
       "image_url": "file:///android_asset/image/jisoo1.webp",
-      "video_url": "blackpink03",
+      "video_url": "https://archive.org/download/lisablackpink/blackpink03.mp4",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 2,
       "name": "Lalisa Manoban",
       "image_url": "file:///android_asset/image/lisa2.webp",
-      "video_url": "blackpink02",
+      "video_url": "https://archive.org/download/lisablackpink/blackpink02.mp4",
       "voice_url": "lisa.mp3"
     },
     {
       "id": 1,
       "name": "Lisa Blackpink",
       "image_url": "file:///android_asset/image/lisa1.webp",
-      "video_url": "blackpink01",
+      "video_url": "https://archive.org/download/lisablackpink/blackpink01.mp4",
       "voice_url": "lisa.mp3"
     }
   ]
