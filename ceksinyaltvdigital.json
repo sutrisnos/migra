@@ -1,0 +1,306 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+	  
+      "main_ads_banner": "ca-app-pub-4363364924806206/7501592284",
+      "main_ads_intertitial":"ca-app-pub-4363364924806206/8241573287",
+      "main_ads_natives":"ca-app-pub-4363364924806206/3843163275",
+	  
+      "backup_ads_banner":"42e35d8246d47401",
+      "backup_ads_intertitial":"30d7107cca59d782",
+	  "backup_ads_natives":"null",
+	  
+      "open_ads_admob":"ca-app-pub-4363364924806206/6928491619",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+	  
+      "switch_banner_natives_ads":"2",
+	  "start_position_native_ads":"1",
+	  "interval_native_ads":"2",
+	  
+      "interval_intertitial": 0,
+	  
+	  "child_direct_gdpr":"true",
+	  
+      "protect_app":"false",
+      "base_64_license_key":"",
+	  
+	  "random_list":"0",
+      "on_off_category":"0",
+      "on_off_moreapp":"1",
+	  
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+	  
+      "high_paying_keyword_1": "Insurance,Finance,Gas,Electricity,Mortgage,Attorney,Loans,Lawyer,Donate,Conference Call,Degree,Credit,Treatment,Software,Classes,Recovery,Trading,Rehab,Hosting,Transfer,Claim",
+      "high_paying_keyword_2": "Selandia Baru,Norwegia,Australia,Kanada,Inggris Raya,Amerika Serikat,India,Irlandia,Belanda,Jerman,Finlandia,Perancis,Italy,Swiss",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Property",
+      "high_paying_keyword_5": "Pinjol",
+	  
+	  "link_moreapp":"https://play.google.com/store/apps/developer?id=Indah+Gemilang+Jaya",
+	  
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+  
+   "More": [
+    {
+      "id": 27,
+      "title": "Ronaldo Fake Video Call & Chat",
+      "image": "https://play-lh.googleusercontent.com/y6v_BHrSr-HQ8CFdOhC22fZm_zLOybuc1TeS8GL5N_R0GoRMgC5YmUizuQlGGd83uIks=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.ronaldofakevideocallandchat"
+    },
+    {
+      "id": 26,
+      "title": "Fake Call Rose Blackpink Chat",
+      "image": "https://play-lh.googleusercontent.com/kWpy4iD0yVdUk3YRY_LGnTkHKsYnzhWOPuM5a4qKZVYXERofMaKa3o7Yd5d_XhBCig=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.fakecallroseblackpinkchat"
+    },
+    {
+      "id": 25,
+      "title": "Lisa Blink Call Wallpaper Chat",
+      "image": "https://play-lh.googleusercontent.com/smP1UAyS1T5y09a932qdU_KNkXV05Yu3c8MpaJvw7zf48zHUIwCc_e67L6hdt4vxu1vB=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.lisablackpinkcallrankwallpaperchat"
+    },
+    {
+      "id": 24,
+      "title": "Twibbonize Photo Frame",
+      "image": "https://play-lh.googleusercontent.com/IDm11tC4OVpDpRJYb-0dKXqKSYW8AieEjINZ9VcJTmFRDxYrtKpVgMn27gIjm_tInw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.twibbonizephotoframe"
+    },
+    {
+      "id": 23,
+      "title": "Ben 10 Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/2PiuB95f7bU1vR1T3-RZbiXLPeXdRBmcNGvSKO2ZutZERsOl4BrzKhA5Zd5GubHp7F9A=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.ben10wallpaperhd"
+    },
+    {
+      "id": 22,
+      "title": "Cinema Watch Chinese Movies",
+      "image": "https://play-lh.googleusercontent.com/BimRUik8vtOgSKEUf88bvfxy90XEihaxbL7RiovtjgoLxmjoiuAz9XEKcadpsUX_wGY=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.cinemachinesemovies"
+    },
+    {
+      "id": 21,
+      "title": "Frame Maker : : Twibon App",
+      "image": "https://play-lh.googleusercontent.com/0m8Q_xm_pcq2l3ouy9ioIywRq3GhcWCLEXg-InxoWZ_Vl_YGJ8kaxCnHjZ_OCvZNvezC=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.twibbonizeframemaker"
+    },
+    {
+      "id": 20,
+      "title": "Anya Forger Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/fGQrCW-MeaYBqZfMvx4ZQv3lIjGWSj3QkrPZedsGzK8aNGpLRiv2z9yzoPJs28PL25I=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.anyaforgerwallpaperhd"
+    },
+    {
+      "id": 19,
+      "title": "How to Draw Scenery Video",
+      "image": "https://play-lh.googleusercontent.com/LDBVBfoBNsOCFmzFn3kUAHdw-YKIEE8IILSLDSRQM_nxj82w-OKEHSPXpTdZNvdAGds=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.howtodrawscenery"
+    },
+    {
+      "id": 18,
+      "title": "Drakor App | Nonton Drama Asia",
+      "image": "https://play-lh.googleusercontent.com/jnaUt4FlAxZuD77NRl8GxTpGIE51LImV60LWuJt1O6tgx23bGnqCIxXQdinLn28Qpw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.igj.drakorwatchasiandrama"
+    },
+    {
+      "id": 17,
+      "title": "Todoroki Shoto Wallpapers 4K",
+      "image": "https://play-lh.googleusercontent.com/kRY8l_1kdzMr3O-AaD3j0fVCcQ9bn_qggREsKgc6zp3UPWOIp9ToHLdtxpF2U0PbhQ=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.todorokishoutowallpapers"
+    },
+    {
+      "id": 16,
+      "title": "Wallpaper Mecca HD Offline",
+      "image": "https://play-lh.googleusercontent.com/LWn3sCsRg2DxAEcNz_nD7zmm3JSS5hghC9nSM1KGxHU1nymcRWBf4FHaLVBK2XFUVis=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.meccawallpaperhd"
+    },
+    {
+      "id": 15,
+      "title": "How to Draw Anime Video",
+      "image": "https://play-lh.googleusercontent.com/cuSqdIZtdKVis0-Bl2QFQdpa5AnkdM7oqa6dmJ02ABjletT_4OZk0WE12TFRuvNkDso=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.howtodrawanime"
+    },
+    {
+      "id": 14,
+      "title": "Lisa Blackpink Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/zoeCtLYyNCERmViBNofDgAAxk5jldmL-U-jCauWczX_y1yoW1tAIWAqe1HVnsCBHbweg=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 13,
+      "title": "Rose Blackpink Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/L-9c9KwOXPgGu32awiBLdW3tvC_wE5AqUd181sagj3oQcCA0c35qVruTkUnwMs6hBw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 12,
+      "title": "Hanako Kun Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/WaJJ9IXBSUh95gIKpb84DCIZlEtkutmqwJO86riDq1FlN9RaUR8OFL8Lpje0IEPCLg=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 11,
+      "title": "Turning Red Panda Wallpapers",
+      "image": "https://play-lh.googleusercontent.com/vFIzLJV-XyQXMSWGrTV0U87gKs6XsjvGO6Rg3Ql23xIw32g5eO4M5ogKovDxPdmSYNo=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 10,
+      "title": "Anime Live Parallax Wallpapers",
+      "image": "https://play-lh.googleusercontent.com/eElbH6wqo7lALEO9-hj77-Tu2GeNUDlTp5xDDdPEMUYpTZgR1XykqEyCkbXs69iu3OQt=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.animeliveparallaxwallpaper"
+    },
+    {
+      "id": 9,
+      "title": "Midoriya Izuku Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/s0_T3Pv4bOQD2sDkyOC4EfvGxIU_xc9dVnNSwgjdk7J9Fd7iVNBhjfGsQCGAZnNxDL3m=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.midoriyaizukuwallpaperhd"
+    },
+    {
+      "id": 8,
+      "title": "Kuroko no Basket Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/ce0iUscVHburfIGuusN2Jm3r_2JSWeAf5nADEDQopITajhb9aoUOkK4m80_SgsBgf-TI=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.kurokonobasketwallpaperhd"
+    },
+    {
+      "id": 7,
+      "title": "Katsuki Bakugou Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/JhuZQCWvroYSVRnQuurBmPTTZGZAJLQ5aM4CQ9TpiWNVhyMkKYyIoWW8wJUJsG5OWim2=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.katsukibakugouwallpaperhd"
+    },
+    {
+      "id": 6,
+      "title": "Mirabel Encanto Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/AqsC5E_nEqwa-wdv6Xg3NviAMtbxhjSCJ3ypn6uqL7U22KXp_ypRFpmE4lyAhfb1-A=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.mirabelencantonwallpapershd"
+    },
+    {
+      "id": 5,
+      "title": "Pink Girly Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/MM622RbynlJsGL8G6ZffvLyWcNkdkFgtHRjW1effA4qnxSZI0NEA8rMBseTUEDYJh-8=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 4,
+      "title": "Anime Girl Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/CV_SF8nG3-Q4CIyPnpUGz8Xwwg4tnmPSCH53hQRfEsfBzGiBp3yddIAx0mVZtH2US7w=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 3,
+      "title": "Deep Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/atl8YV8Pl1e5swoaZt22EHYWwV9sYaF2Ec1BQjv1IOOdk7v3V9m-MrAnXWSiCycvWg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 2,
+      "title": "BTS Jimin Fake Video Call",
+      "image": "https://play-lh.googleusercontent.com/SBpFcPX2OsXZmgNp5Bx35-Dnhl53Z4BH1rHH7OCQpJj0UG3vhsCQkKIBg8JDuAumrBQ=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.btsjiminfakevideocall"
+    },
+    {
+      "id": 1,
+      "title": "Wallpaper Kawaii 4K",
+      "image": "https://play-lh.googleusercontent.com/7pk5Tt-GHCShrwzD6Y3gMRWLcDARlFU95QFToGPqNdKcQSqSLHCIwLKMb9P528GNBw=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.kawaiiwallpapershd"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/gambar/apatv.webp"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Pengertian TV Digital",
+      "image": "file:///android_asset/gambar/apatv.webp",
+	  "gambar": "file:///android_asset/gambar/apatv.webp",
+      "description": "Berikut Pengertian TV Digital dan Sinyal Digital",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara Cek Jangkauan Sinyal Digital Via Aplikasi",
+      "image": "file:///android_asset/gambar/cek.webp",
+	  "gambar": "file:///android_asset/gambar/cek.webp",
+      "description": "Lihat Cara Cek Jangkauan Sinyal Digital",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Cara Cek Sinyal TV Digital",
+      "image": "file:///android_asset/gambar/sinyal.webp",
+	  "gambar": "file:///android_asset/gambar/sinyal.webp",
+      "description": "Lihat Cara Cek Sinyal TV Digital Disini",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Cara Migrasi TV Analog ke TV Digital",
+      "image": "file:///android_asset/gambar/migrasi.webp",
+	  "gambar": "file:///android_asset/gambar/migrasi.webp",
+      "description": "Lihat Cara Migrasi TV Analog ke TV Digital",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Ciri-ciri TV Digital",
+      "image": "file:///android_asset/gambar/tvdigital.webp",
+	  "gambar": "file:///android_asset/gambar/tvdigital.webp",
+      "description": "Pahami Ciri-ciri TV Digital",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Cara Cek TV Digital",
+      "image": "file:///android_asset/gambar/cektv.webp",
+	  "gambar": "file:///android_asset/gambar/cektv.webp",
+      "description": "Cara Cek TV Dirumah Anda Sudah Termasuk Sinyal Digital atau Belum? ",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Daftar Siaran TV Digital Di Indonesia",
+      "image": "file:///android_asset/gambar/daftar.webp",
+	  "gambar": "file:///android_asset/gambar/daftar.webp",
+      "description": "Lihat Daftar Siaran TV Digital Di Indonesia",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Jenis-jenis Set Top Box",
+      "image": "file:///android_asset/gambar/jenistvbox.webp",
+	  "gambar": "file:///android_asset/gambar/jenistvbox.webp",
+      "description": "Lihat Jenis-jenis Set Top Box Disini",
+      "link": "file:///android_asset/guide/guide8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Harga Set Top Box",
+      "image": "file:///android_asset/gambar/harga.webp",
+	  "gambar": "file:///android_asset/gambar/harga.webp",
+      "description": "Lihat Harga Set Top Box Disini",
+      "link": "file:///android_asset/guide/guide9.html"
+    }
+  ]
+}
