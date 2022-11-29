@@ -1,0 +1,952 @@
+{
+  "Ads":[
+    {
+      "select_main_ads" : "ADMOB",
+      "select_backup_ads" :"APPLOVIN-M",
+
+      "open_ads_admob" : "ca-app-pub-4363364924806206/5852145560",
+      "open_ads_alien" : "",
+      "switch_open_ads" : "1",
+
+      "main_ads_banner" : "ca-app-pub-4363364924806206/6055325544",
+      "main_ads_intertitial" : "ca-app-pub-4363364924806206/9791390576",
+      "main_ads_native" : "ca-app-pub-4363364924806206/7165227233",
+      "main_ads_rewards" : "ca-app-pub-4363364924806206/3225982228",
+
+      "backup_ads_banner" : "e5137bbbac00557b",
+      "backup_ads_intertitial" : "37b340418df58c96",
+      "backup_ads_native" : "3533eefa3282db4c",
+      "backup_ads_rewards" : "1430726146703140",
+
+      "switch_banner_natives":"2",
+      "on_off_native_listview": 1,
+      "interval_native": 6,
+
+      "interval_intertitial": "1",
+      "survey_api_key":"REPLACE_WITH_YOUR_API_KEY",
+
+      "on_off_survey":"0",
+      "default_coins": 300,
+      "reward_coins_video": 100,
+      "reward_coins_survey": 250,
+      "use_coins_download": 50,
+
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+
+      "high_paying_keyword_1": "Insurance,Finance,Gas,Electricity,Mortgage,Attorney,Loans,Lawyer,Donate,Conference Call,Degree,Credit,Treatment,Software,Classes,Recovery,Trading,Rehab,Hosting,Transfer,Claim",
+      "high_paying_keyword_2": "Selandia Baru,Norwegia,Australia,Kanada,Inggris Raya,Amerika Serikat,India,Irlandia,Belanda,Jerman,Finlandia,Perancis,Italy,Swiss",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Property",
+      "high_paying_keyword_5": "Pinjol",
+
+      "status_app": "0",
+      "link_redirect": "https://",
+
+      "contact_email":"pwksyariahpos@gmail.com",
+      "link_moreapp":"https://play.google.com/store/apps/developer?id=Indah+Gemilang+Jaya",
+      "link_privacy": "file:///android_asset/privacy_policy.html",
+      "child_direct_gdpr": "true",
+
+      "category_optional":"0",
+      "moreapp_optional":"1"
+
+    }
+  ],
+
+  "More": [
+    {
+      "id": 27,
+      "title": "Ronaldo Fake Video Call & Chat",
+      "image": "https://play-lh.googleusercontent.com/y6v_BHrSr-HQ8CFdOhC22fZm_zLOybuc1TeS8GL5N_R0GoRMgC5YmUizuQlGGd83uIks=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.ronaldofakevideocallandchat"
+    },
+    {
+      "id": 26,
+      "title": "Fake Call Rose Blackpink Chat",
+      "image": "https://play-lh.googleusercontent.com/kWpy4iD0yVdUk3YRY_LGnTkHKsYnzhWOPuM5a4qKZVYXERofMaKa3o7Yd5d_XhBCig=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.fakecallroseblackpinkchat"
+    },
+    {
+      "id": 25,
+      "title": "Lisa Blink Call Wallpaper Chat",
+      "image": "https://play-lh.googleusercontent.com/smP1UAyS1T5y09a932qdU_KNkXV05Yu3c8MpaJvw7zf48zHUIwCc_e67L6hdt4vxu1vB=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.lisablackpinkcallrankwallpaperchat"
+    },
+    {
+      "id": 24,
+      "title": "Twibbonize Photo Frame",
+      "image": "https://play-lh.googleusercontent.com/IDm11tC4OVpDpRJYb-0dKXqKSYW8AieEjINZ9VcJTmFRDxYrtKpVgMn27gIjm_tInw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.twibbonizephotoframe"
+    },
+    {
+      "id": 23,
+      "title": "Ben 10 Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/2PiuB95f7bU1vR1T3-RZbiXLPeXdRBmcNGvSKO2ZutZERsOl4BrzKhA5Zd5GubHp7F9A=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.ben10wallpaperhd"
+    },
+    {
+      "id": 22,
+      "title": "Cinema Watch Chinese Movies",
+      "image": "https://play-lh.googleusercontent.com/BimRUik8vtOgSKEUf88bvfxy90XEihaxbL7RiovtjgoLxmjoiuAz9XEKcadpsUX_wGY=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.cinemachinesemovies"
+    },
+    {
+      "id": 21,
+      "title": "Frame Maker : : Twibon App",
+      "image": "https://play-lh.googleusercontent.com/0m8Q_xm_pcq2l3ouy9ioIywRq3GhcWCLEXg-InxoWZ_Vl_YGJ8kaxCnHjZ_OCvZNvezC=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.twibbonizeframemaker"
+    },
+    {
+      "id": 20,
+      "title": "Anya Forger Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/fGQrCW-MeaYBqZfMvx4ZQv3lIjGWSj3QkrPZedsGzK8aNGpLRiv2z9yzoPJs28PL25I=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.anyaforgerwallpaperhd"
+    },
+    {
+      "id": 19,
+      "title": "How to Draw Scenery Video",
+      "image": "https://play-lh.googleusercontent.com/LDBVBfoBNsOCFmzFn3kUAHdw-YKIEE8IILSLDSRQM_nxj82w-OKEHSPXpTdZNvdAGds=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.howtodrawscenery"
+    },
+    {
+      "id": 18,
+      "title": "Drakor App | Nonton Drama Asia",
+      "image": "https://play-lh.googleusercontent.com/jnaUt4FlAxZuD77NRl8GxTpGIE51LImV60LWuJt1O6tgx23bGnqCIxXQdinLn28Qpw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.igj.drakorwatchasiandrama"
+    },
+    {
+      "id": 17,
+      "title": "Todoroki Shoto Wallpapers 4K",
+      "image": "https://play-lh.googleusercontent.com/kRY8l_1kdzMr3O-AaD3j0fVCcQ9bn_qggREsKgc6zp3UPWOIp9ToHLdtxpF2U0PbhQ=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.todorokishoutowallpapers"
+    },
+    {
+      "id": 16,
+      "title": "Wallpaper Mecca HD Offline",
+      "image": "https://play-lh.googleusercontent.com/LWn3sCsRg2DxAEcNz_nD7zmm3JSS5hghC9nSM1KGxHU1nymcRWBf4FHaLVBK2XFUVis=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.meccawallpaperhd"
+    },
+    {
+      "id": 15,
+      "title": "How to Draw Anime Video",
+      "image": "https://play-lh.googleusercontent.com/cuSqdIZtdKVis0-Bl2QFQdpa5AnkdM7oqa6dmJ02ABjletT_4OZk0WE12TFRuvNkDso=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.howtodrawanime"
+    },
+    {
+      "id": 14,
+      "title": "Lisa Blackpink Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/zoeCtLYyNCERmViBNofDgAAxk5jldmL-U-jCauWczX_y1yoW1tAIWAqe1HVnsCBHbweg=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 13,
+      "title": "Rose Blackpink Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/L-9c9KwOXPgGu32awiBLdW3tvC_wE5AqUd181sagj3oQcCA0c35qVruTkUnwMs6hBw=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 12,
+      "title": "Hanako Kun Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/WaJJ9IXBSUh95gIKpb84DCIZlEtkutmqwJO86riDq1FlN9RaUR8OFL8Lpje0IEPCLg=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 11,
+      "title": "Turning Red Panda Wallpapers",
+      "image": "https://play-lh.googleusercontent.com/vFIzLJV-XyQXMSWGrTV0U87gKs6XsjvGO6Rg3Ql23xIw32g5eO4M5ogKovDxPdmSYNo=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 10,
+      "title": "Anime Live Parallax Wallpapers",
+      "image": "https://play-lh.googleusercontent.com/eElbH6wqo7lALEO9-hj77-Tu2GeNUDlTp5xDDdPEMUYpTZgR1XykqEyCkbXs69iu3OQt=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.animeliveparallaxwallpaper"
+    },
+    {
+      "id": 9,
+      "title": "Midoriya Izuku Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/s0_T3Pv4bOQD2sDkyOC4EfvGxIU_xc9dVnNSwgjdk7J9Fd7iVNBhjfGsQCGAZnNxDL3m=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.midoriyaizukuwallpaperhd"
+    },
+    {
+      "id": 8,
+      "title": "Kuroko no Basket Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/ce0iUscVHburfIGuusN2Jm3r_2JSWeAf5nADEDQopITajhb9aoUOkK4m80_SgsBgf-TI=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.kurokonobasketwallpaperhd"
+    },
+    {
+      "id": 7,
+      "title": "Katsuki Bakugou Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/JhuZQCWvroYSVRnQuurBmPTTZGZAJLQ5aM4CQ9TpiWNVhyMkKYyIoWW8wJUJsG5OWim2=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.katsukibakugouwallpaperhd"
+    },
+    {
+      "id": 6,
+      "title": "Mirabel Encanto Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/AqsC5E_nEqwa-wdv6Xg3NviAMtbxhjSCJ3ypn6uqL7U22KXp_ypRFpmE4lyAhfb1-A=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.mirabelencantonwallpapershd"
+    },
+    {
+      "id": 5,
+      "title": "Pink Girly Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/MM622RbynlJsGL8G6ZffvLyWcNkdkFgtHRjW1effA4qnxSZI0NEA8rMBseTUEDYJh-8=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 4,
+      "title": "Anime Girl Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/CV_SF8nG3-Q4CIyPnpUGz8Xwwg4tnmPSCH53hQRfEsfBzGiBp3yddIAx0mVZtH2US7w=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 3,
+      "title": "Deep Wallpaper HD 4K",
+      "image": "https://play-lh.googleusercontent.com/atl8YV8Pl1e5swoaZt22EHYWwV9sYaF2Ec1BQjv1IOOdk7v3V9m-MrAnXWSiCycvWg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.turningredwallpaperhd"
+    },
+    {
+      "id": 2,
+      "title": "BTS Jimin Fake Video Call",
+      "image": "https://play-lh.googleusercontent.com/SBpFcPX2OsXZmgNp5Bx35-Dnhl53Z4BH1rHH7OCQpJj0UG3vhsCQkKIBg8JDuAumrBQ=w240-h480",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.btsjiminfakevideocall"
+    },
+    {
+      "id": 1,
+      "title": "Wallpaper Kawaii 4K",
+      "image": "https://play-lh.googleusercontent.com/7pk5Tt-GHCShrwzD6Y3gMRWLcDARlFU95QFToGPqNdKcQSqSLHCIwLKMb9P528GNBw=s180",
+      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.kawaiiwallpapershd"
+    }
+  ],
+
+  "Categories":[
+    {
+      "id":1,
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/54/f4/bd/54f4bdae659dd0b90977a2b751a0951e.jpg"
+    }
+  ],
+
+  "Data":[
+    {
+      "id": 120,
+      "title": "Mirabel Encanto 120",
+      "image": "https://i.pinimg.com/originals/07/80/4c/07804c04a0de48468f95ecae1d386f45.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 119,
+      "title": "Mirabel Encanto 119",
+      "image": "https://i.pinimg.com/originals/07/cd/7c/07cd7c3c7536142d09c706154e0d6167.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 118,
+      "title": "Mirabel Encanto 118",
+      "image": "https://i.pinimg.com/originals/12/7a/c5/127ac594c49fae461eb7243e2f1008fb.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 117,
+      "title": "Mirabel Encanto 117",
+      "image": "https://i.pinimg.com/originals/2c/f9/21/2cf921c93dc1ff7d692653826ff21937.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 116,
+      "title": "Mirabel Encanto 116",
+      "image": "https://i.pinimg.com/originals/2d/2a/b4/2d2ab440fc21911f50431154411ee034.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 115,
+      "title": "Mirabel Encanto 115",
+      "image": "https://i.pinimg.com/originals/3e/65/5a/3e655a3632681400344c4314b7ddc5b2.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 114,
+      "title": "Mirabel Encanto 114",
+      "image": "https://i.pinimg.com/564x/fc/6d/3b/fc6d3bca5cec352c0f3a250eb50b97d5.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 113,
+      "title": "Mirabel Encanto 113",
+      "image": "https://i.pinimg.com/originals/4f/1d/99/4f1d990c95f42f42983306dbd4ddb0a3.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 112,
+      "title": "Mirabel Encanto 112",
+      "image": "https://i.pinimg.com/originals/b9/fb/28/b9fb283d8eae05a6e876b1fd2a9fc965.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 111,
+      "title": "Mirabel Encanto 111",
+      "image": "https://i.pinimg.com/originals/4e/57/c6/4e57c6a22a96b0d72d21060550f57384.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 110,
+      "title": "Mirabel Encanto 110",
+      "image": "https://i.pinimg.com/originals/1e/e3/5c/1ee35ca181d674939c1429896f0d0d71.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 109,
+      "title": "Mirabel Encanto 109",
+      "image": "https://i.pinimg.com/originals/6b/32/17/6b3217fb0644b451b5d9a3623ba24e75.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 108,
+      "title": "Mirabel Encanto 108",
+      "image": "https://i.pinimg.com/originals/aa/9e/3a/aa9e3a153bc3caea7e6df0452cef46f2.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 107,
+      "title": "Mirabel Encanto 107",
+      "image": "https://i.pinimg.com/originals/e9/55/f5/e955f53d2c8c20973b428a3d91e57050.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 106,
+      "title": "Mirabel Encanto 106",
+      "image": "https://i.pinimg.com/originals/14/42/da/1442dace56417fd3d3e2795298e393b8.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 105,
+      "title": "Mirabel Encanto 105",
+      "image": "https://i.pinimg.com/originals/86/74/72/86747247b52612cbaeb19def0c5f64cc.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 104,
+      "title": "Mirabel Encanto 104",
+      "image": "https://i.pinimg.com/originals/1c/bd/ea/1cbdea055114bff466909a3cfea1cfa8.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 103,
+      "title": "Mirabel Encanto 103",
+      "image": "https://i.pinimg.com/originals/f7/37/98/f73798a7790940b72d07481b6b77a244.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 102,
+      "title": "Mirabel Encanto 102",
+      "image": "https://i.pinimg.com/originals/7a/a0/e8/7aa0e8173a0e4e666efdb3a7771dcc45.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 101,
+      "title": "Mirabel Encanto 101",
+      "image": "https://i.pinimg.com/originals/9e/04/27/9e04270b8dcaab35f1c389846c8d9c97.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 100,
+      "title": "Mirabel Encanto 100",
+      "image": "https://i.pinimg.com/originals/63/cc/0d/63cc0dc5655a28f5b963f130f0d8bd41.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 99,
+      "title": "Mirabel Encanto 99",
+      "image": "https://i.pinimg.com/originals/7b/28/bc/7b28bc143366f91f33bf3a62260a3ac1.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 98,
+      "title": "Mirabel Encanto 98",
+      "image": "https://i.pinimg.com/originals/ad/1d/30/ad1d30c149bc3be85e1954c2065e9032.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 97,
+      "title": "Mirabel Encanto 97",
+      "image": "https://i.pinimg.com/originals/67/79/5a/67795a7a97cfe5549224eb927d91a9f3.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 96,
+      "title": "Mirabel Encanto 96",
+      "image": "https://i.pinimg.com/originals/da/02/4c/da024c43315b358a53858b3c2f5e3643.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 95,
+      "title": "Mirabel Encanto 95",
+      "image": "https://i.pinimg.com/originals/3e/44/ab/3e44ab58f7eb0fb4e46c731b0a5e8d76.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 94,
+      "title": "Mirabel Encanto 94",
+      "image": "https://i.pinimg.com/originals/6e/9d/cc/6e9dcc31302cb63463673bc9a7087f53.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 93,
+      "title": "Mirabel Encanto 93",
+      "image": "https://i.pinimg.com/originals/72/d8/11/72d8118d36e08bde335aa28e2d33ca8d.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 92,
+      "title": "Mirabel Encanto 92",
+      "image": "https://i.pinimg.com/originals/69/6f/5e/696f5ec165f02d8f66ff2e73225458ce.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 91,
+      "title": "Mirabel Encanto 91",
+      "image": "https://i.pinimg.com/originals/32/ed/4b/32ed4b8e453211794531f702c23c1ab8.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 90,
+      "title": "Mirabel Encanto 90",
+      "image": "https://i.pinimg.com/originals/e7/1e/63/e71e63331d2e83f04fc4caf82de92746.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 89,
+      "title": "Mirabel Encanto 89",
+      "image": "https://i.pinimg.com/originals/f4/c9/15/f4c915f3ea1d18c70343ae2d91cdc711.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 88,
+      "title": "Mirabel Encanto 88",
+      "image": "https://i.pinimg.com/originals/3d/e0/94/3de0940bb75e73650f8da0f3bec4136a.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 87,
+      "title": "Mirabel Encanto 87",
+      "image": "https://i.pinimg.com/originals/39/67/98/3967981650fc94cecc6d4e5f87277ba3.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 86,
+      "title": "Mirabel Encanto 86",
+      "image": "https://i.pinimg.com/originals/7e/a2/a8/7ea2a8f03b6aa5b48ced2a3efdae9c9a.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 85,
+      "title": "Mirabel Encanto 85",
+      "image": "https://i.pinimg.com/originals/34/bc/28/34bc2873eb5ffa551a3a65819dc1b73e.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 84,
+      "title": "Mirabel Encanto 84",
+      "image": "https://i.pinimg.com/originals/70/13/4d/70134d4b1ca2d0b89aed1591542f2299.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 83,
+      "title": "Mirabel Encanto 83",
+      "image": "https://i.pinimg.com/originals/e3/fb/b6/e3fbb612ad5d9652882a896a12ca7825.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 82,
+      "title": "Mirabel Encanto 82",
+      "image": "https://i.pinimg.com/originals/3d/d8/d3/3dd8d3ac8fa98b9d22dbd2e0bb2e4502.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 81,
+      "title": "Mirabel Encanto 81",
+      "image": "https://i.pinimg.com/originals/4c/fc/03/4cfc03cac032d92de27dfa79e9fee271.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 80,
+      "title": "Mirabel Encanto 80",
+      "image": "https://i.pinimg.com/564x/e7/90/58/e79058582e37f409da4210dfda1f9e4e.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 79,
+      "title": "Mirabel Encanto 79",
+      "image": "https://i.pinimg.com/originals/3b/aa/9f/3baa9f24e74f11a35c2fab9753aa4bd2.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 78,
+      "title": "Mirabel Encanto 78",
+      "image": "https://i.pinimg.com/564x/c6/ea/65/c6ea65394578df90f06b091d5e7e0015.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 77,
+      "title": "Mirabel Encanto 77",
+      "image": "https://i.pinimg.com/originals/66/c3/5f/66c35fb4a301baf938ae29883421eaf6.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 76,
+      "title": "Mirabel Encanto 76",
+      "image": "https://i.pinimg.com/originals/7b/34/27/7b34270b274bcf47f625ec11736102d7.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 75,
+      "title": "Mirabel Encanto 75",
+      "image": "https://i.pinimg.com/originals/f2/9a/9e/f29a9e0b40e299a0bb76edb6ca77ae67.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 74,
+      "title": "Mirabel Encanto 74",
+      "image": "https://i.pinimg.com/originals/b1/d7/15/b1d715df618ce381bb32a94885d5141f.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 73,
+      "title": "Mirabel Encanto 73",
+      "image": "https://i.pinimg.com/originals/e7/1e/63/e71e63331d2e83f04fc4caf82de92746.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 72,
+      "title": "Mirabel Encanto 72",
+      "image": "https://i.pinimg.com/originals/56/6c/12/566c12682c94ecc04c0b2ffe3523cadb.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 71,
+      "title": "Mirabel Encanto 71",
+      "image": "https://i.pinimg.com/originals/0d/41/5d/0d415d25513eddbde2061ced1f4010b0.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 70,
+      "title": "Mirabel Encanto 70",
+      "image": "https://i.pinimg.com/originals/42/0f/54/420f54ebf8b3329c070eafae6f35751e.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 69,
+      "title": "Mirabel Encanto 69",
+      "image": "https://i.pinimg.com/originals/60/33/24/603324142a4f9bc899d1c57ce2e7218f.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 68,
+      "title": "Mirabel Encanto 68",
+      "image": "https://i.pinimg.com/originals/44/dd/c7/44ddc7c6b113e5f92f147868fd739fe8.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 67,
+      "title": "Mirabel Encanto 67",
+      "image": "https://i.pinimg.com/originals/b8/0f/75/b80f752f705e3158e3827802c9c3d494.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 66,
+      "title": "Mirabel Encanto 66",
+      "image": "https://i.pinimg.com/originals/21/95/40/2195403d80af875de5a2ca97b9289be0.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 65,
+      "title": "Mirabel Encanto 65",
+      "image": "https://i.pinimg.com/originals/b2/fc/cb/b2fccb76359ab11f15b4b16630694a8d.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 64,
+      "title": "Mirabel Encanto 64",
+      "image": "https://i.pinimg.com/originals/db/f6/01/dbf601ffade6275c7fac04bf6d297f20.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 63,
+      "title": "Mirabel Encanto 63",
+      "image": "https://i.pinimg.com/originals/14/42/da/1442dace56417fd3d3e2795298e393b8.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 62,
+      "title": "Mirabel Encanto 62",
+      "image": "https://i.pinimg.com/originals/ca/e7/08/cae70823d96187449d5f4c94ef7c54fa.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 61,
+      "title": "Mirabel Encanto 61",
+      "image": "https://i.pinimg.com/originals/88/fa/b5/88fab5a0069563497f0bbe6a2b461dc1.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 60,
+      "title": "Mirabel Encanto 60",
+      "image": "https://i.pinimg.com/originals/2e/84/41/2e84419055ab3407a0681b3a05ab52c6.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 59,
+      "title": "Mirabel Encanto 59",
+      "image": "https://i.pinimg.com/originals/02/a9/8c/02a98cf79b278893facd858182ddcbfe.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 58,
+      "title": "Mirabel Encanto 58",
+      "image": "https://i.pinimg.com/originals/f9/84/b2/f984b21003ef8c93819dbc69ea81e833.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 57,
+      "title": "Mirabel Encanto 57",
+      "image": "https://i.pinimg.com/originals/98/6c/dd/986cddbc73024a657a9b9ad4d1dd4051.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 56,
+      "title": "Mirabel Encanto 56",
+      "image": "https://i.pinimg.com/originals/9a/b6/b9/9ab6b91ba9999a0af3804917d148efdd.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 55,
+      "title": "Mirabel Encanto 55",
+      "image": "https://i.pinimg.com/originals/a3/69/e5/a369e567d82b50609d24519a27e11091.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 54,
+      "title": "Mirabel Encanto 54",
+      "image": "https://i.pinimg.com/originals/93/b6/85/93b68578f092e00b08863ead7689dd9f.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 53,
+      "title": "Mirabel Encanto 53",
+      "image": "https://i.pinimg.com/originals/46/56/79/465679740f0006ad0479002f5231a78d.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 52,
+      "title": "Mirabel Encanto 52",
+      "image": "https://i.pinimg.com/originals/7a/a0/e8/7aa0e8173a0e4e666efdb3a7771dcc45.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id": 51,
+      "title": "Mirabel Encanto 51",
+      "image": "https://i.pinimg.com/originals/3e/65/5a/3e655a3632681400344c4314b7ddc5b2.jpg",
+      "name_category":"Mirabel Encanto"
+    },
+    {
+      "id":"50",
+      "title":"Mirabel Encanto 50",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/2e/68/b7/2e68b7d33092bf6bf5c2e75b14ff31c0.jpg"
+    },
+    {
+      "id":"49",
+      "title":"Mirabel Encanto 49",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/a9/43/a4/a943a4a845f23e126c2a4cd2fa2df7cf.jpg"
+    },
+    {
+      "id":"48",
+      "title":"Mirabel Encanto 48",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/0f/1a/cc/0f1accbea35f624350b21dea671aa0dd.jpg"
+    },
+    {
+      "id":"47",
+      "title":"Mirabel Encanto 47",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/54/f4/bd/54f4bdae659dd0b90977a2b751a0951e.jpg"
+    },
+    {
+      "id":"46",
+      "title":"Mirabel Encanto 46",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/8b/c8/cc/8bc8cc2abd57b6363821f91672646b8b.jpg"
+    },
+    {
+      "id":"45",
+      "title":"Mirabel Encanto 45",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/6d/8d/14/6d8d14a964bb6e80460525911c8eab81.jpg"
+    },
+    {
+      "id":"44",
+      "title":"Mirabel Encanto 44",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/57/86/e8/5786e87ea286c2d08b1b7b10f2666c8f.jpg"
+    },
+    {
+      "id":"43",
+      "title":"Mirabel Encanto 43",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/564x/d4/cb/db/d4cbdbbfcb9fb8c684cb3036fc994d77.jpg"
+    },
+    {
+      "id":"42",
+      "title":"Mirabel Encanto 42",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/2a/49/2c/2a492c88fb1ef0210e15f2a621ad6a96.jpg"
+    },
+    {
+      "id":"41",
+      "title":"Mirabel Encanto 41",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/85/38/29/853829cc36d8cad920b66e2c933c3e91.jpg"
+    },
+    {
+      "id":"40",
+      "title":"Mirabel Encanto 40",
+      "name_category":"Mirabel Encanto",
+      "image":"https://cartoonimages.club/wp-content/uploads/2021/11/Encanto-Dolby-and-RealD-3D-Posters-2.jpg"
+    },
+    {
+      "id":"39",
+      "title":"Mirabel Encanto 39",
+      "name_category":"Mirabel Encanto",
+      "image":"https://cartoonimages.club/wp-content/uploads/2021/11/Encanto-Dolby-and-RealD-3D-Posters.jpg"
+    },
+    {
+      "id":"38",
+      "title":"Mirabel Encanto 38",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaper.dog/large/20532753.jpg"
+    },
+    {
+      "id":"37",
+      "title":"Mirabel Encanto 37",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaper.dog/large/20532926.jpg"
+    },
+    {
+      "id":"36",
+      "title":"Mirabel Encanto 36",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaper.dog/large/20532960.jpg"
+    },
+    {
+      "id":"35",
+      "title":"Mirabel Encanto 35",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaper.dog/large/20532991.jpg"
+    },
+    {
+      "id":"34",
+      "title":"Mirabel Encanto 34",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaper.dog/large/20532992.jpg"
+    },
+    {
+      "id":"33",
+      "title":"Mirabel Encanto 33",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaper.dog/large/20532928.jpg"
+    },
+    {
+      "id":"32",
+      "title":"Mirabel Encanto 32",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaper.dog/large/20532905.jpg"
+    },
+    {
+      "id":"31",
+      "title":"Mirabel Encanto 31",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaper.dog/large/20532867.jpg"
+    },
+    {
+      "id":"30",
+      "title":"Mirabel Encanto 30",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/736x/a7/e0/8c/a7e08c94a5f61252cde681818bd48710.jpg"
+    },
+    {
+      "id":"29",
+      "title":"Mirabel Encanto 29",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpapers.com/images/high/disney-encanto-abuela-alma-pzdp26p0nl8u8ao6.jpg"
+    },
+    {
+      "id":"28",
+      "title":"Mirabel Encanto 28",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpapers.com/images/high/encanto-isabela-madrigal-gv3duk8fss39xs9a.jpg"
+    },
+    {
+      "id":"27",
+      "title":"Mirabel Encanto 27",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpapers.com/images/high/encanto-julieta-and-agustin-g8c4dkazkni427g2.jpg"
+    },
+    {
+      "id":"26",
+      "title":"Mirabel Encanto 26",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpapers.com/images/high/disney-encanto-dolores-hyxjojm6qn1ciwr5.jpg"
+    },
+    {
+      "id":"25",
+      "title":"Mirabel Encanto 25",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaperaccess.com/download/encanto-7485462"
+    },
+    {
+      "id":"24",
+      "title":"Mirabel Encanto 24",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaperaccess.com/download/encanto-7485442"
+    },
+    {
+      "id":"23",
+      "title":"Mirabel Encanto 23",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaperaccess.com/download/encanto-7485345"
+    },
+    {
+      "id":"22",
+      "title":"Mirabel Encanto 22",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaperaccess.com/download/encanto-7485311"
+    },
+    {
+      "id":"21",
+      "title":"Mirabel Encanto 21",
+      "name_category":"Mirabel Encanto",
+      "image":"https://wallpaperaccess.com/download/encanto-7485270"
+    },
+    {
+      "id":"20",
+      "title":"Mirabel Encanto 20",
+      "name_category":"Mirabel Encanto",
+      "image":"https://images2.alphacoders.com/117/1179612.png"
+    },
+    {
+      "id":"19",
+      "title":"Mirabel Encanto 19",
+      "name_category":"Mirabel Encanto",
+      "image":"https://images.alphacoders.com/120/1208585.jpg"
+    },
+    {
+      "id":"18",
+      "title":"Mirabel Encanto 18",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FH70_lMWQCs1upb?format=jpg&name=large"
+    },
+    {
+      "id":"17",
+      "title":"Mirabel Encanto 17",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FH70_lMWQDgv5mo?format=jpg&name=medium"
+    },
+    {
+      "id":"16",
+      "title":"Mirabel Encanto 16",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLsK-HaUcAAJqZl?format=jpg&name=900x900"
+    },
+    {
+      "id":"15",
+      "title":"Mirabel Encanto 15",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/77/8f/0c/778f0cc9ad30474c0064d8329fca9b3e.jpg"
+    },
+    {
+      "id":"14",
+      "title":"Mirabel Encanto 14",
+      "name_category":"Mirabel Encanto",
+      "image":"https://i.pinimg.com/originals/ff/f4/ef/fff4efc2d22ba5f5729689d526d7cdda.jpg"
+    },
+    {
+      "id":"13",
+      "title":"Mirabel Encanto 13",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLfchpGagAAmRaD?format=jpg&name=large"
+    },
+    {
+      "id":"12",
+      "title":"Mirabel Encanto 12",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLFLMUiagAIoHyB?format=jpg&name=900x900"
+    },
+    {
+      "id":"11",
+      "title":"Mirabel Encanto 11",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLCtlElXoAcabyP?format=jpg&name=medium"
+    },
+    {
+      "id":"10",
+      "title":"Mirabel Encanto 10",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLCtfE7XMAI1F94?format=jpg&name=medium"
+    },
+    {
+      "id":"9",
+      "title":"Mirabel Encanto 9",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLhRACpXsAA3uG_?format=jpg&name=large"
+    },
+    {
+      "id":"8",
+      "title":"Mirabel Encanto 8",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLhRACmWQAIMgJW?format=jpg&name=large"
+    },
+    {
+      "id":"7",
+      "title":"Mirabel Encanto 7",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLfH7FlacAMlWRO?format=jpg&name=medium"
+    },
+    {
+      "id":"6",
+      "title":"Mirabel Encanto 6",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FLZhRAiacAA6kMP?format=jpg&name=4096x4096"
+    },
+    {
+      "id":"5",
+      "title":"Mirabel Encanto 5",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FH7xyb2WQCk4oui?format=jpg&name=large"
+    },
+    {
+      "id":"4",
+      "title":"Mirabel Encanto 4",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FKwuNRyagAA7TMX?format=jpg&name=large"
+    },
+    {
+      "id":"3",
+      "title":"Mirabel Encanto 3",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FKwuNAoagAAvmez?format=jpg&name=large"
+    },
+    {
+      "id":"2",
+      "title":"Mirabel Encanto 2",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FKwuMvXaUAA1BjE?format=jpg&name=large"
+    },
+    {
+      "id":"1",
+      "title":"Mirabel Encanto 1",
+      "name_category":"Mirabel Encanto",
+      "image":"https://pbs.twimg.com/media/FIbdR0EVEAo9VvC?format=jpg&name=large"
+    }
+  ]
+}
