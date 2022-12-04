@@ -43,7 +43,7 @@
       "contact_email":"pwksyariahpos@gmail.com",
       "link_moreapp":"https://play.google.com/store/apps/developer?id=Indah+Gemilang+Jaya",
       "link_privacy": "file:///android_asset/privacy_policy.html",
-      "child_direct_gdpr": "true",
+      "child_direct_gdpr": "false",
 
       "category_optional":"0",
       "moreapp_optional":"1"
