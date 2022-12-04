@@ -4,7 +4,7 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads": "APPLOVIN-D",
 
-      "child_direct_gdpr": "false",
+      "child_direct_gdpr": "true",
 
       "open_ads_admob": "ca-app-pub-4363364924806206/5195189265",
       "open_ads_alien": "",
