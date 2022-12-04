@@ -22,7 +22,7 @@
 	  
       "interval_intertitial": 0,
 	  
-	  "child_direct_gdpr":"true",
+	  "child_direct_gdpr":"false",
 	  
       "protect_app":"false",
       "base_64_license_key":"",
